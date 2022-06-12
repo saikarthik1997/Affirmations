@@ -9,7 +9,7 @@
     <androidx.recyclerview.widget.RecyclerView
         android:scrollbars="vertical"
         app:layoutManager="LinearLayoutManager"
-        android:id="@+id/recyler_view"
+        android:id="@+id/recycler_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 </FrameLayout>
